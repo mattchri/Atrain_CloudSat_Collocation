@@ -4,8 +4,8 @@
 ; orbit.
 ;
 ; Inputs:
-; FLXHR-AUX file downloaded from: 
-; ECMWF-AUX file
+; FLXHR-AUX file downloaded from: ftp://ftp.cloudsat.cira.colostate.edu/FLXHR-LIDAR-AUX.P_R04/2008/001/
+; ECMWF-AUX file downloaded from: ftp://ftp.cloudsat.cira.colostate.edu/ECMWF-AUX.P_R05/2008/001/
 ;
 ; Example:
 ; cal_cs_aerosols = calculate_aer_species('/group_workspaces/cems2/nceo_generic/satellite_data/cloudsat/flxhr-lidar-aux/R04/2008/001/2008001002019_08922_CS_FLXHR-LIDAR-AUX_GRANULE_P_R04_E02.hdf','/group_workspaces/cems2/nceo_generic/satellite_data/cloudsat/ecmwf-aux/R05/2008/001/2008001002019_08922_CS_ECMWF-AUX_GRANULE_P_R05_E02_F00.hdf',dx=100.0)
